@@ -1,0 +1,11 @@
+{
+    "name": "ksfraser/ksf_CRM_UI",
+    "description": "Standalone CRM_UI",
+    "type": "project",
+    "require": {
+        "ksfraser/ksf_topic": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
